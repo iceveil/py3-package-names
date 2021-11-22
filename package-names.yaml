@@ -3,3 +3,8 @@ ConfigParser: configparser
 psutil: psutil
 setproctitle: setproctitle
 dns: dnspython
+janus: janus
+websockets: websockets
+python-docx: python-docx
+emoji: emoji
+cryptography: cryptography
