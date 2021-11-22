@@ -6,5 +6,5 @@
 py3-package-names
 ├──  README.md              说明文档
 ├──  package-names.yaml     包名对应表
-└──  my3_package_names.py   用于获取第三方库对应包名的Demo
+└──  py3_package_names.py   用于获取第三方库对应包名的Demo
 ```
