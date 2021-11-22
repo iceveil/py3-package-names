@@ -8,3 +8,5 @@ websockets: websockets
 python-docx: python-docx
 emoji: emoji
 cryptography: cryptography
+yaml: pyyaml
+OpenSSL: pyOpenSSL
