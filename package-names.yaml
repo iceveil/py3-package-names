@@ -10,3 +10,6 @@ emoji: emoji
 cryptography: cryptography
 yaml: pyyaml
 OpenSSL: pyOpenSSL
+requests: requests
+pycurl: pycurl
+fabric3: fabric3
